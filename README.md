@@ -140,7 +140,7 @@ Weather is fetched from **Open-Meteo** for **Hyderabad, India** by default. It o
 
 This project is deployed on **Vercel**:
 
-🔗 [Live Demo](https://your-vercel-link.vercel.app)
+🔗 [Live Demo](https://pulse-calendar-1qk9.vercel.app/)
 
 To deploy your own:
 
