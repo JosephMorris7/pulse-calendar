@@ -76,7 +76,7 @@ public/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/pulse-calendar.git
+git clone https://github.com/JosephMorris7/pulse-calendar.git
 
 # 2. Navigate into the project
 cd pulse-calendar
@@ -156,7 +156,7 @@ vercel
 
 ## 🎥 Video Demo
 
-📹 [Watch on Loom](https://loom.com/your-link-here)
+📹 [Watch on Youtube](https://youtu.be/35lrbQpQHO8?si=M38rdpRu_ViHqXX6)
 
 The demo covers:
 - Date range selection
@@ -172,7 +172,7 @@ The demo covers:
 
 ## 👨‍💻 Author
 
-Built with ❤️ for the SWE Summer Internship Frontend Engineering Challenge.
+Built with ❤️ by Joseph Morris.
 
 ---
 
