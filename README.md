@@ -156,7 +156,7 @@ vercel
 
 ## 🎥 Video Demo
 
-📹 [Watch on Youtube](https://youtu.be/35lrbQpQHO8?si=M38rdpRu_ViHqXX6)
+📹 https://www.youtube.com/watch?v=35lrbQpQHO8
 
 The demo covers:
 - Date range selection
